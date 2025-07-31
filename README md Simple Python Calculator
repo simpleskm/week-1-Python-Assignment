@@ -21,6 +21,6 @@ A beginner-friendly Python program that performs basic arithmetic operations—*
 3. Performs the selected operation
 4. Displays the result like:
 
-```text
+Example
 10 + 5 = 15
 
